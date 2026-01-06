@@ -1,0 +1,9 @@
+[Adblock Plus]
+! Title: jaimeerin81 personal filterlist
+! Description: my personal filterlist
+! Homepage: https://github.com/hagezi/dns-blocklists
+! Syntax: AdBlock
+! Number of entries: 2
+!
+||adexchangeclear.com^$important
+||vip-api.xmpush.xiaomi.com^
