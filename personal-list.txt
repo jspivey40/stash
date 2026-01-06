@@ -6,4 +6,5 @@
 ! Number of entries: 2
 !
 ||adexchangeclear.com^$important
+||usrpubtrk.com^$important
 ||vip-api.xmpush.xiaomi.com^
