@@ -8,4 +8,3 @@
 ! **for ext.to super annoying ads popup/redirect type. this isn't finished.**
 ||adexchangeclear.com^$important
 ||usrpubtrk.com^$important
-||vip-api.xmpush.xiaomi.com^
